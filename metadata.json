@@ -1,0 +1,6 @@
+{
+  "name": "Basit Otomasyon",
+  "description": "basitotomasyon.com - Kurumsal yapay zeka iş akışı otomasyonları ve otonom çok kanallı ajan sistemleri. Muhammed Fidan tarafından geliştirilmiştir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
